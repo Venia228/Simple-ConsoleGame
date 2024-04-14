@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2jcvQh1tYswJ3864PqcH9NEbSix7fJcsRaKvezYNasg2oW3ud9PTpgg4De48TEPApgC3PmErF4ULJ2slL9MFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stealth\\source\\repos\\ConsoleGame\\ConsoleGame\\ConsoleGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stealth\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
